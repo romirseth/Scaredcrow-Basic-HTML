@@ -1,0 +1,20 @@
+{
+  "name": "scaredcrow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "homepage.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node homepage.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romirseth/Scaredcrow.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/romirseth/Scaredcrow/issues"
+  },
+  "homepage": "https://github.com/romirseth/Scaredcrow#readme"
+}
